@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soukaina4621
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on React.js/Laravel projects :)
+- 💞️ I’m looking to collaborate at React.js/Laravel projects :)
 - 📫 How to reach me: Soukaina.mer99@gmail.com
 
 <!---
